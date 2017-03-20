@@ -1,4 +1,4 @@
-let Presenter = require('./presenter');
+let Presenter = require('presenter').BasePresenter;
 
 class ExamplePresenter extends Presenter {
 

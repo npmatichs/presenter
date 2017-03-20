@@ -1,11 +1,12 @@
-let Presenter = require('./presenters/presenter');
+let Presenter = require('./presenter');
+let hasImages = require('./hasImages');
 const PRESENTER = 'presenter';
 
-/**
- * HasPresenter mixin
- * @param superclass
- */
-module.exports = superclass => class extends superclass {
+exports.BasePresenter = Presenter;
+
+exports.hasImages = hasImages;
+
+exports.mixin = superclass => class extends superclass {
 
     /**
      * Boot another possible mixins.
