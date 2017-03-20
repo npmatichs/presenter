@@ -1,7 +1,7 @@
-# Collection data instance.
+# Presenter, present the data of object. Meet with [decorator presenter pattern](https://en.wikipedia.org/wiki/Decorator_pattern)
 
-[![Build Status](https://scrutinizer-ci.com/g/npmatichs/collection/badges/build.png?b=master)](https://scrutinizer-ci.com/g/npmatichs/collection/build-status/master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/npmatichs/collection/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/npmatichs/collection/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/npmatichs/presenter/badges/build.png?b=master)](https://scrutinizer-ci.com/g/npmatichs/presenter/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/npmatichs/presenter/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/npmatichs/presenter/?branch=master)
 
 # API docs will be soon ..
 
